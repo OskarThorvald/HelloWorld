@@ -1,0 +1,15 @@
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/obj/Debug/net7.0/DIKUArena.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/obj/Debug/net7.0/DIKUArena.AssemblyInfoInputs.cache
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/obj/Debug/net7.0/DIKUArena.AssemblyInfo.cs
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/obj/Debug/net7.0/DIKUArena.csproj.CoreCompileInputs.cache
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/obj/Debug/net7.0/DIKUArena.sourcelink.json
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/bin/Debug/net7.0/DIKUArena
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/bin/Debug/net7.0/DIKUArena.deps.json
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/bin/Debug/net7.0/DIKUArena.runtimeconfig.json
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/bin/Debug/net7.0/DIKUArena.dll
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/bin/Debug/net7.0/DIKUArena.pdb
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/obj/Debug/net7.0/DIKUArena.dll
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/obj/Debug/net7.0/refint/DIKUArena.dll
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/obj/Debug/net7.0/DIKUArena.pdb
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/obj/Debug/net7.0/DIKUArena.genruntimeconfig.cache
+/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a2-OskarThorvald/DIKUArena/obj/Debug/net7.0/ref/DIKUArena.dll

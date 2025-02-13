@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIKUArenaTests", "DIKUArenaTests\DIKUArenaTests.csproj", "{7EB26175-A76E-453C-A5B5-209B55846A46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIKUArena", "DIKUArena\DIKUArena.csproj", "{C60AE2AE-8223-46E9-9ECA-547F0AFBEB3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB26175-A76E-453C-A5B5-209B55846A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB26175-A76E-453C-A5B5-209B55846A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB26175-A76E-453C-A5B5-209B55846A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB26175-A76E-453C-A5B5-209B55846A46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60AE2AE-8223-46E9-9ECA-547F0AFBEB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60AE2AE-8223-46E9-9ECA-547F0AFBEB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60AE2AE-8223-46E9-9ECA-547F0AFBEB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60AE2AE-8223-46E9-9ECA-547F0AFBEB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F13658-321C-40EF-98AC-076DF0D88C69}
+	EndGlobalSection
+EndGlobal
