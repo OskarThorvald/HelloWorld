@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Bcy+jbkUQA=",
+  "success": true,
+  "projectFilePath": "/Users/Thorvald-The-Great/Desktop/SU/GitHub reporsetories/a7-team-6-group-3-1/Galaga/Galaga.csproj",
+  "expectedPackageFiles": [
+    "/Users/Thorvald-The-Great/.nuget/packages/diku.canvas/2.1.0-alpha1/diku.canvas.2.1.0-alpha1.nupkg.sha512",
+    "/Users/Thorvald-The-Great/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/Users/Thorvald-The-Great/.nuget/packages/sixlabors.fonts/2.0.4/sixlabors.fonts.2.0.4.nupkg.sha512",
+    "/Users/Thorvald-The-Great/.nuget/packages/sixlabors.imagesharp/3.1.5/sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "/Users/Thorvald-The-Great/.nuget/packages/sixlabors.imagesharp.drawing/2.1.4/sixlabors.imagesharp.drawing.2.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
